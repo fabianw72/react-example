@@ -1,0 +1,10 @@
+Comandos para la consola durante el proyecyto
+ 
+    npm start                                                                        (Iniciar el proyecyto en react)
+    git status                                                                       (Iniciar git)
+    git add .                                                                        (Guardar los cambios)
+    git commit -m  "first commit"                                                    (Establecer los cambios y agregar comentario)
+    git remote add origin https://github.com/fabianw72/react-example.git             (Agregar la direccion donde se subira el codigo)
+    git push -u origin master
+
+    npm run build        Toma todo el codigo de react y lo transforma en una carpeta con archivos estaticos
